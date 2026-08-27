@@ -1,0 +1,41 @@
+{
+  "mainApp": {
+    "version": "1.1.26",
+    "md5": "6ec4626a93e7d118e35c3919d240ad99",
+    "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/L.exe"
+  },
+  "gameVersions": [
+    {
+      "md5": "4f0e3f63b67f39fb2b19f1265a71f1ad",
+      "version": "1.1.37",
+      "isLatest": true,
+      "dlls": [
+        {
+          "name": "LCore.dll",
+          "md5": "6a1e3e7252c7a28273478f0989bbf8f5",
+          "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/LCore.dll"
+        },
+        {
+          "name": "SDK.dll",
+          "md5": "96b7a33caa8ac5cb764e0ffd9e874ea4",
+          "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/SDK.dll"
+        },
+        {
+          "name": "Linj.dll",
+          "md5": "9ee851bd13f4677dfa4dd9c4256ef6d4",
+          "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/Linj.dll"
+        },
+        {
+          "name": "26.8.25.2001_Game.bin",
+          "md5": "3a93f3ed2db4afbb2aa2a80778dce2eb",
+          "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/26.8.25.2001_Game.bin"
+        },
+        {
+          "name": "msjh.txt",
+          "md5": "73dc780c1e0195604c75a74d7aceafa3",
+          "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/msjh.txt"
+        }
+      ]
+    }
+  ]
+}
