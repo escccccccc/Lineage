@@ -1,13 +1,13 @@
 {
   "mainApp": {
-    "version": "1.1.49",
-    "md5": "8dcecee8c3a00c680f75a7b1e5112481",
+    "version": "1.1.50",
+    "md5": "a38f876871300ba4e5167f5c77fde625",
     "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/L.exe"
   },
   "gameVersions": [
     {
       "md5": "d0a213ad95b82b4cd85081e1698c403e",
-      "version": "1.1.70",
+      "version": "1.1.71",
       "isLatest": true,
       "dlls": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "name": "SDK.dll",
-          "md5": "8c6ed530e053bde91d3a0461a78497a5",
+          "md5": "c6da1db17e155e6c35a996376666068b",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/SDK.dll"
         },
         {
