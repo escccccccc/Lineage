@@ -1,13 +1,13 @@
 {
   "mainApp": {
-    "version": "1.1.91",
+    "version": "1.1.93",
     "md5": "efc7fbea176bea6ef3683a4182146c24",
     "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/L.exe"
   },
   "gameVersions": [
     {
-      "md5": "3e05d92abedf46ebe31705db0ba12f01",
-      "version": "1.1.119",
+      "md5": "bf55f2762a7ed385a35aaf68822c4c98",
+      "version": "1.1.121",
       "isLatest": true,
       "dlls": [
         {
