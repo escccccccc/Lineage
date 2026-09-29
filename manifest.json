@@ -7,12 +7,12 @@
   "gameVersions": [
     {
       "md5": "2f9326ccc80e2a7f2997827e971bd2eb",
-      "version": "1.1.126",
+      "version": "1.1.127",
       "isLatest": true,
       "dlls": [
         {
           "name": "LCore.dll",
-          "md5": "0a9167e8a1ae8fee565e0a664b6c83ed",
+          "md5": "7656fca80d208b3e08b89d5deec3ef6c",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/LCore.dll"
         },
         {
@@ -22,7 +22,7 @@
         },
         {
           "name": "Linj.dll",
-          "md5": "3625512740dcb8680b7245d441490c0d",
+          "md5": "6a86163d7b85118a012c69272906da0e",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/Linj.dll"
         },
         {
