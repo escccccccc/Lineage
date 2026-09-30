@@ -7,7 +7,7 @@
   "gameVersions": [
     {
       "md5": "dcf6171629812c873c7e0fb78d94c842",
-      "version": "1.1.129",
+      "version": "1.1.130",
       "isLatest": true,
       "dlls": [
         {
@@ -22,7 +22,7 @@
         },
         {
           "name": "Linj.dll",
-          "md5": "6a86163d7b85118a012c69272906da0e",
+          "md5": "f6003c8da2756515b37df9d52f720d60",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/Linj.dll"
         },
         {
