@@ -7,12 +7,12 @@
   "gameVersions": [
     {
       "md5": "dcf6171629812c873c7e0fb78d94c842",
-      "version": "1.1.138",
+      "version": "1.1.139",
       "isLatest": true,
       "dlls": [
         {
           "name": "LCore.dll",
-          "md5": "75e0a7b43ab41249536da50b9ac96e38",
+          "md5": "663ad6aaa20d893ebc98eca21bb35d8e",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/LCore.dll"
         },
         {
