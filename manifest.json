@@ -7,17 +7,17 @@
   "gameVersions": [
     {
       "md5": "58407aefeea06285a8ebd90efa43d578",
-      "version": "1.1.167",
+      "version": "1.1.168",
       "isLatest": true,
       "dlls": [
         {
           "name": "LCore.dll",
-          "md5": "652b9603f9fa4dffc3c67d115c855ed6",
+          "md5": "0934f4d8102becaafcbd208ec4a13a8c",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/LCore.dll"
         },
         {
           "name": "SDK.dll",
-          "md5": "f08a3a66f99e59cb43816ec4eb001b07",
+          "md5": "9717c105b363ed6fce3e6fc02f8964c4",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/SDK.dll"
         },
         {
