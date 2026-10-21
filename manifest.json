@@ -6,18 +6,18 @@
   },
   "gameVersions": [
     {
-      "md5": "58407aefeea06285a8ebd90efa43d578",
-      "version": "1.1.176",
+      "md5": "29682b6d37e3f954165efe6e4f551aae",
+      "version": "1.1.178",
       "isLatest": true,
       "dlls": [
         {
           "name": "LCore.dll",
-          "md5": "a1567ac610ec47224a6f83ec72d80428",
+          "md5": "d953c490c5d8f9ff4c979f1d6755a099",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/LCore.dll"
         },
         {
           "name": "SDK.dll",
-          "md5": "b91a5e63c316db24d74db8312583ab93",
+          "md5": "776db9aaa87fed16f769a68655a455d7",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/SDK.dll"
         },
         {
@@ -31,9 +31,9 @@
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/msjh.txt"
         },
         {
-          "name": "26.10.14.2001_Game.bin",
-          "md5": "db82997de56c99b1131a513a6d24eae1",
-          "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/26.10.14.2001_Game.bin"
+          "name": "26.10.20.2001_Game.bin",
+          "md5": "e32188346697d02a9b81b2081f9e8069",
+          "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/26.10.20.2001_Game.bin"
         }
       ]
     }
