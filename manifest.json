@@ -7,7 +7,7 @@
   "gameVersions": [
     {
       "md5": "840f33ed3e0423ad4f58bfd8b8360ae2",
-      "version": "2.1.33",
+      "version": "2.1.34",
       "isLatest": true,
       "dlls": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "name": "SDK.dll",
-          "md5": "d392ef067d26a5846704f799aa44bab8",
+          "md5": "6fd5ce121d2f5e4fbb142a8edcdb4bd1",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/SDK.dll"
         },
         {
@@ -32,7 +32,7 @@
         },
         {
           "name": "26.11.17.2002_Game.bin",
-          "md5": "717c26af05f1f8c5e437ca73b6f121b9",
+          "md5": "101cc5734741337d4069310b383dcc75",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/26.11.17.2002_Game.bin"
         }
       ]
