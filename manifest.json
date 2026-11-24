@@ -6,13 +6,13 @@
   },
   "gameVersions": [
     {
-      "md5": "840f33ed3e0423ad4f58bfd8b8360ae2",
-      "version": "2.1.62",
+      "md5": "e3e1028a33197537e69c14e6b80fa4d5",
+      "version": "2.1.63",
       "isLatest": true,
       "dlls": [
         {
           "name": "LCore.dll",
-          "md5": "d23b1cb4a2582a3ff50d0af75909fc07",
+          "md5": "bcb9d14891bb33703aa81a0dbf659184",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/LCore.dll"
         },
         {
@@ -31,9 +31,9 @@
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/msjh.txt"
         },
         {
-          "name": "26.11.17.2002_Game.bin",
-          "md5": "101cc5734741337d4069310b383dcc75",
-          "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/26.11.17.2002_Game.bin"
+          "name": "26.11.24.2001_Game.bin",
+          "md5": "234ee170d038b6b326a646d56ebca596",
+          "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/26.11.24.2001_Game.bin"
         }
       ]
     }
