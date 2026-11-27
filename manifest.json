@@ -7,7 +7,7 @@
   "gameVersions": [
     {
       "md5": "5eafbdd2f1caad63a119261c88c17d8a",
-      "version": "2.1.84",
+      "version": "2.1.85",
       "isLatest": true,
       "dlls": [
         {
@@ -32,7 +32,7 @@
         },
         {
           "name": "26.11.27.2001_Game.bin",
-          "md5": "c7710d9efc5e493c4884868fae04fdeb",
+          "md5": "c6d24b1e69d2e506701416a045f29e3b",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/26.11.27.2001_Game.bin"
         }
       ]
