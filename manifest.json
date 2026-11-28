@@ -7,7 +7,7 @@
   "gameVersions": [
     {
       "md5": "5eafbdd2f1caad63a119261c88c17d8a",
-      "version": "2.1.93",
+      "version": "2.1.94",
       "isLatest": true,
       "dlls": [
         {
@@ -17,7 +17,7 @@
         },
         {
           "name": "SDK.dll",
-          "md5": "8761e8e519475e3e71d2bb58a369aa8b",
+          "md5": "787e317ce4b38d88c6a1c5141010aa25",
           "url": "https://raw.githubusercontent.com/escccccccc/Lineage/refs/heads/main/SDK.dll"
         },
         {
